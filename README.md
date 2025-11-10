@@ -7,6 +7,16 @@ Gyaan Deck is a lightweight web app that lets anyone paste long-form text (markd
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try the App Here:**  
+👉 [https://tds-ppt-generator-8p00.onrender.com/](https://tds-ppt-generator-8p00.onrender.com/)
+
+---
+
+
+---
+
 ## ✨ Features
 
 * 📝 **Input Options**: Paste large chunks of text, markdown, or prose.
